@@ -9,8 +9,12 @@
 ---
 
 ## 💻 Projeto - Space Cream
+<p>
+Ema página da web responsiva para dispositivos Mobile first do zero usando o layout de protótipo disponível no figma. Fortalecer meus conhecimentos de HTML e CSS aplicando conceitos de GRID e o que foi visto nos projetos Fase 2 Fase 3 aplicam-se versões ao projeto, animações e transições em CSS.
+</p>
+
 <p>Image Space cream Desktop</p>
-<img alt="Print Space cream mobile" src="" "/
+<img alt="Print Space cream mobile" src="github/space-cream-desktop1.png" "/
  <p>Image Space cream Mobile</p>
 <img alt="Print Space cream mobile" src="github/space-cream-mobile.png" "/>
 
@@ -24,8 +28,6 @@
 - Media queries.
 
 ##  📕 Sobre  
-
-Ema página da web responsiva para dispositivos Mobile first do zero usando o layout de protótipo disponível no figma. Fortalecer meus conhecimentos de HTML e CSS aplicando conceitos de GRID e o que foi visto nos projetos Fase 2 Fase 3 aplicam-se versões ao projeto, animações e transições em CSS.
 
 <p>Este é um projeto desenvolvido em treinamento, juntamente com a 
 <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀
